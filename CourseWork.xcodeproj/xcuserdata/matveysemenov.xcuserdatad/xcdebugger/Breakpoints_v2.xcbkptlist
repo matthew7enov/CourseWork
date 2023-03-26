@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D2EF8EED-C51F-48A2-9C22-11A669A603EB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6633AC4-A5D9-45C8-90F5-692A80727CE8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CourseWork/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "A6633AC4-A5D9-45C8-90F5-692A80727CE8 - f78bf84dbdb8222"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CourseWork.ScannerViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CourseWork.ScannerViewController"
+                  moduleName = "CourseWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matveysemenov/Desktop/RoadToJunior/CourseWork/CourseWork/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "A6633AC4-A5D9-45C8-90F5-692A80727CE8 - 8d2be149f8e1fe4b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CourseWork.ScannerViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CourseWork.ScannerViewController"
+                  moduleName = "CourseWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matveysemenov/Desktop/RoadToJunior/CourseWork/CourseWork/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "127">
+               </Location>
+               <Location
+                  uuid = "A6633AC4-A5D9-45C8-90F5-692A80727CE8 - e74844100f85a2f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CourseWork.ScannerViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CourseWork.ScannerViewController&gt;"
+                  moduleName = "CourseWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matveysemenov/Desktop/RoadToJunior/CourseWork/CourseWork/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "A6633AC4-A5D9-45C8-90F5-692A80727CE8 - 45473a048f21beaf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CourseWork.ScannerViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CourseWork.ScannerViewController&gt;"
+                  moduleName = "CourseWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matveysemenov/Desktop/RoadToJunior/CourseWork/CourseWork/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "A6633AC4-A5D9-45C8-90F5-692A80727CE8 - 3710ffff76d73433"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CourseWork.ScannerViewController.__deallocating_deinit"
+                  moduleName = "CourseWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matveysemenov/Desktop/RoadToJunior/CourseWork/CourseWork/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C375C2C9-DFBE-4816-9F6E-E25FBCBC4B3E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CourseWork/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "C375C2C9-DFBE-4816-9F6E-E25FBCBC4B3E - 2c8ab1f37406aad2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CourseWork.ProductListController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CourseWork.ProductListController"
+                  moduleName = "CourseWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matveysemenov/Desktop/RoadToJunior/CourseWork/CourseWork/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "C375C2C9-DFBE-4816-9F6E-E25FBCBC4B3E - de157dda73932cfc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CourseWork.ProductListController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CourseWork.ProductListController"
+                  moduleName = "CourseWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matveysemenov/Desktop/RoadToJunior/CourseWork/CourseWork/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "C375C2C9-DFBE-4816-9F6E-E25FBCBC4B3E - 6771de1869d1d022"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CourseWork.ProductListController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CourseWork.ProductListController&gt;"
+                  moduleName = "CourseWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matveysemenov/Desktop/RoadToJunior/CourseWork/CourseWork/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "C375C2C9-DFBE-4816-9F6E-E25FBCBC4B3E - f5df511fb333f4d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CourseWork.ProductListController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CourseWork.ProductListController&gt;"
+                  moduleName = "CourseWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matveysemenov/Desktop/RoadToJunior/CourseWork/CourseWork/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "C375C2C9-DFBE-4816-9F6E-E25FBCBC4B3E - d46060c639588084"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CourseWork.ProductListController.__deallocating_deinit"
+                  moduleName = "CourseWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matveysemenov/Desktop/RoadToJunior/CourseWork/CourseWork/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB514D0E-7E46-4DE8-939A-CFD16BA5567C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CourseWork/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "EB514D0E-7E46-4DE8-939A-CFD16BA5567C - 5664de0b6bcf7ec1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CourseWork.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CourseWork.ViewController"
+                  moduleName = "CourseWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matveysemenov/Desktop/RoadToJunior/CourseWork/CourseWork/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "EB514D0E-7E46-4DE8-939A-CFD16BA5567C - a3671d2f418268db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CourseWork.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CourseWork.ViewController"
+                  moduleName = "CourseWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matveysemenov/Desktop/RoadToJunior/CourseWork/CourseWork/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "EB514D0E-7E46-4DE8-939A-CFD16BA5567C - 3bd7290c85c27376"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CourseWork.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CourseWork.ViewController&gt;"
+                  moduleName = "CourseWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matveysemenov/Desktop/RoadToJunior/CourseWork/CourseWork/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "EB514D0E-7E46-4DE8-939A-CFD16BA5567C - eee24557813bf048"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CourseWork.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CourseWork.ViewController&gt;"
+                  moduleName = "CourseWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matveysemenov/Desktop/RoadToJunior/CourseWork/CourseWork/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "EB514D0E-7E46-4DE8-939A-CFD16BA5567C - 21a13124d5edbec9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CourseWork.ViewController.__deallocating_deinit"
+                  moduleName = "CourseWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matveysemenov/Desktop/RoadToJunior/CourseWork/CourseWork/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
